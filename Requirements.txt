@@ -1,1 +1,4 @@
-This is just a sample text file
+pandas
+numpy
+seaborn
+-e.
